@@ -4,6 +4,6 @@ const App = () => {
             <FirstComponent />
             <NamedComponent name="Dani" />
         </div>
-    )
+    );
 }
 
